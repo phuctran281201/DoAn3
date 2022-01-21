@@ -1,0 +1,12 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-face-recognition": "~2.0.4",
+        "node-red-contrib-image-output": "~0.6.2",
+        "node-red-dashboard": "~2.30.0",
+        "node-red-node-ui-list": "~0.3.6"
+    }
+}
